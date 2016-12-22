@@ -40,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Oops.. Halaman tidak ditemukan.</div>
+                <div class="title">Sorry Jigga , Page is Not Found</div>
             </div>
         </div>
     </body>
