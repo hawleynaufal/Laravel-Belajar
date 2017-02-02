@@ -75,7 +75,7 @@
 
         <div class="container">
             <div class="content">
-                <div class="title">Hello {{$name}}, Selamat Makan :)</div>
+                <div class="title">Hello {{$name}}, Selamat Belajar :)</div>
             </div>
         </div>
     </body>
